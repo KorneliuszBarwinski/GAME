@@ -1,0 +1,283 @@
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GAME.exe.config
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GAME.exe
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GAME.pdb
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\obj\Debug\GAME.csprojResolveAssemblyReference.cache
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\obj\Debug\GAME.Form1.resources
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\obj\Debug\GAME.Properties.Resources.resources
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\obj\Debug\GAME.csproj.GenerateResource.Cache
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\obj\Debug\GAME.exe
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\obj\Debug\GAME.pdb
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (12).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (13).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (14).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (15).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (16).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Idle (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (12).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (13).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (14).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (15).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (16).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (17).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Dead (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (12).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (13).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (14).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (15).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (16).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Jump (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Run (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Run (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Run (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Run (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Run (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Run (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Run (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Run (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Run (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Run (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Run (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Slide (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Slide (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Slide (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Slide (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Slide (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Slide (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Slide (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Slide (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Slide (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Slide (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Slide (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Walk (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Walk (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Walk (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Walk (12).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Walk (13).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Walk (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Walk (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Walk (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Walk (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Walk (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Walk (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Walk (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME\GAME\bin\Debug\GRAFIKA\SANTA\Walk (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (12).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (13).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (14).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (15).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (16).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (17).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Dead (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (12).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (13).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (14).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (15).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (16).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Idle (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (12).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (13).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (14).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (15).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (16).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Jump (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Run (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Run (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Run (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Run (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Run (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Run (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Run (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Run (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Run (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Run (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Run (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Slide (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Slide (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Slide (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Slide (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Slide (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Slide (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Slide (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Slide (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Slide (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Slide (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Slide (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Walk (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Walk (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Walk (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Walk (12).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Walk (13).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Walk (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Walk (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Walk (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Walk (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Walk (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Walk (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Walk (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GRAFIKA\SANTA\Walk (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GAME.exe.config
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GAME.exe
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\bin\Debug\GAME.pdb
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\obj\Debug\GAME.csprojResolveAssemblyReference.cache
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\obj\Debug\GAME.Form1.resources
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\obj\Debug\GAME.Properties.Resources.resources
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\obj\Debug\GAME.csproj.GenerateResource.Cache
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\obj\Debug\GAME.exe
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.1\GAME\obj\Debug\GAME.pdb
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (12).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (13).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (14).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (15).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (16).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (17).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Dead (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (12).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (13).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (14).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (15).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (16).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Idle (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (12).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (13).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (14).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (15).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (16).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Jump (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Run (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Run (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Run (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Run (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Run (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Run (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Run (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Run (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Run (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Run (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Run (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Slide (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Slide (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Slide (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Slide (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Slide (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Slide (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Slide (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Slide (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Slide (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Slide (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Slide (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Walk (1).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Walk (10).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Walk (11).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Walk (12).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Walk (13).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Walk (2).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Walk (3).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Walk (4).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Walk (5).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Walk (6).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Walk (7).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Walk (8).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\SANTA\Walk (9).png
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GAME.exe.config
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GAME.exe
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GAME.pdb
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\obj\Debug\GAME.csprojResolveAssemblyReference.cache
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\obj\Debug\GAME.Form1.resources
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\obj\Debug\GAME.Properties.Resources.resources
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\obj\Debug\GAME.csproj.GenerateResource.Cache
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\obj\Debug\GAME.exe
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\obj\Debug\GAME.pdb
+C:\Users\korne\Desktop\PROJEKT\GAME - 1.0.2\GAME\bin\Debug\GRAFIKA\ball.png
